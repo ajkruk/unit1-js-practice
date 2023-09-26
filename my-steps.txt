@@ -1,0 +1,104 @@
+### Step 2A
+/Users/aliciakruk
+
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+/Users/aliciakruk/Desktop/unit1-git-practice
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+cd ~
+
+### Step 2H
+/Users/aliciakruk
+
+### Step 2I
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+
+### Step 2J
+cd /Users/aliciakruk
+
+### Step 2K
+cd Desktop
+cd unit1-git-practice
+
+
+### Step 3A
+aliciakruk@Matthews-MBP unit1-git-practice % mkdir veggies
+aliciakruk@Matthews-MBP unit1-git-practice % mkdir meats
+aliciakruk@Matthews-MBP unit1-git-practice % mkdir desserts
+
+### Step 3B
+mv desserts sweets
+
+### Step 3C
+mkdir proteins 
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+aliciakruk@Matthews-MBP unit1-git-practice % cd veggies
+aliciakruk@Matthews-MBP veggies % touch carrot.txt
+aliciakruk@Matthews-MBP veggies % touch peas.txt
+
+### Step 3F
+aliciakruk@Matthews-MBP veggies % cd ..
+aliciakruk@Matthews-MBP unit1-git-practice % cd sweets
+
+
+### Step 3G
+aliciakruk@Matthews-MBP sweets % touch cookie.txt
+aliciakruk@Matthews-MBP sweets % mv cookie.txt donut.txt
+
+
+### Step 3H
+aliciakruk@Matthews-MBP protein % cd ..
+aliciakruk@Matthews-MBP unit1-git-practice % touch thing.txt
+
+### Step 3I
+aliciakruk@Matthews-MBP unit1-git-practice % cp thing.txt tofu.txt
+
+### Step 3J
+aliciakruk@Matthews-MBP unit1-git-practice % mv tofu.txt protein
+
+### Step 3K
+aliciakruk@Matthews-MBP unit1-git-practice % cp thing.txt crab.txt
+aliciakruk@Matthews-MBP unit1-git-practice % cd protein
+aliciakruk@Matthews-MBP protein % mv crab.txt meats
+
+### Step 3L
+aliciakruk@Matthews-MBP unit1-git-practice % rm thing.txt
+
+### Step 3M
+aliciakruk@Matthews-MBP unit1-git-practice % cp -r veggies plants
+
+### Step 3N
+aliciakruk@Matthews-MBP unit1-git-practice % mkdir drinks
+aliciakruk@Matthews-MBP unit1-git-practice % rm -r drinks
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
