@@ -92,13 +92,20 @@ aliciakruk@Matthews-MBP unit1-git-practice % rm -r drinks
 
 
 ### Step 4
-
+aliciakruk@Matthews-MBP unit1-git-practice % git init
+aliciakruk@Matthews-MBP unit1-git-practice % git add .
+aliciakruk@Matthews-MBP unit1-git-practice % git commit -m "first commit"
 
 ### Step 5
+aliciakruk@Matthews-MBP unit1-git-practice % git remote add origin git@github.com:ajkruk/unit1-js-practice.git
 
 
 ### Step 6
-
+aliciakruk@Matthews-MBP unit1-git-practice % touch menu.txt
+aliciakruk@Matthews-MBP unit1-git-practice % git status
+aliciakruk@Matthews-MBP unit1-git-practice % git add .
+aliciakruk@Matthews-MBP unit1-git-practice % git commit -m "starting menu"
+aliciakruk@Matthews-MBP unit1-git-practice % git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
